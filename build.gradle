@@ -37,6 +37,7 @@ dependencies {
     implementation 'org.springframework.session:spring-session-jdbc'
     implementation 'org.springframework.security:spring-security-test'
 //    testImplementation 'org.junit.jupiter:junit-jupiter:5.8.0-M1'
+    implementation 'org.mariadb.jdbc:mariadb-java-client'
 
 }
 
